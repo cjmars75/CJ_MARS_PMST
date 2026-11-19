@@ -1,6 +1,6 @@
-[EN] ENGLISH — GITHUB RELEASE DESCRIPTION (v3.0.0)
+[EN] ENGLISH — RELEASE DESCRIPTION (v3.0.0)
 
-CJ MARS PMST v3.0.0 — Physical Media Mastering & Stress-Test Suite (Free PRO Edition)
+# CJ MARS PMST v3.0.0 — Physical Media Mastering & Stress-Test Suite (Free PRO Edition)
 
 **Owner, Concept & DSP Architect:** **Serhii Makarenko (CJ Mars)**  
 **License:** Free Professional Edition — all PRO features 100% unlocked free of charge for both personal and commercial studio use (subject to the built-in EULA protecting authorship and DSP algorithms against unauthorized resale or code/algorithm extraction).
@@ -38,7 +38,7 @@ CJ MARS PMST v3.0.0 — Physical Media Mastering & Stress-Test Suite (Free PRO E
    - `CJ MARS PMST Setup 3.0.0.exe` (Windows x64 NSIS Installer)
    - `CJ MARS PMST-3.0.0.AppImage` (Linux x86_64)
 
-  [UA] УКРАЇНСЬКА — ОПИС РЕЛІЗУ ДЛЯ GITHUB (v3.0.0)
+  [UA] УКРАЇНСЬКА — ОПИС РЕЛІЗУ (v3.0.0)
 --------------------------------------------------------------------------------
 
 # CJ MARS PMST v3.0.0 — Physical Media Mastering & Stress-Test Suite (Free PRO Edition)
@@ -81,7 +81,7 @@ CJ MARS PMST v3.0.0 — Physical Media Mastering & Stress-Test Suite (Free PRO E
    - `CJ MARS PMST Setup 3.0.0.exe` (Windows x64 інсталятор)
    - `CJ MARS PMST-3.0.0.AppImage` (Linux x86_64)
   
-     [DE] DEUTSCH — GITHUB-RELEASE-BESCHREIBUNG (v3.0.0)
+     [DE] DEUTSCH — RELEASE-BESCHREIBUNG (v3.0.0)
 --------------------------------------------------------------------------------
 
 # CJ MARS PMST v3.0.0 — Physische Mastering-Prüfbank (Kostenlose PRO-Edition)
